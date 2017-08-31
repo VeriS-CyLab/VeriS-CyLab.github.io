@@ -13,7 +13,7 @@ Our research group consists of the following people:
 {:.people}
 
 
-## Alumni
+# Alumni
 Following people have been associated with VeriS:
 
 | ![sang]      | **Quoc-Sang Phan, Postdoctoral Researcher**: Lorem ipsum dolor sit amet, te lorem timeam indoctum eum, ne has case dignissim cotidieque. Quis tantas aliquando pro ex. An feugiat minimum argumentum his, ea modus nonumes facilis eam. Eos impetus argumentum ne, ex modo accusam ponderum nam. Viris quidam invidunt ut per. rsight-aligned |
