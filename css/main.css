@@ -639,6 +639,15 @@ table tr td :last-child {
   margin-bottom: 0;
 }
 
+.people tr {
+  border: 0;
+}
+.people tr td {
+  border: 0;
+  padding: 10px;
+  background-color: #ffffff;
+  display: block;
+}
 /* --- Code blocks --- */
 
 pre {
@@ -748,3 +757,5 @@ color: #f1c40f;
 .gist, .gist-file table tr td {
   border: unset;
 }
+
+
