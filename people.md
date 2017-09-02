@@ -38,9 +38,10 @@ Following people have been associated with VeriS:
 
 ---
 
-### ![sang] Quoc-Sang Phan, TITLE
+### ![sang] Quoc-Sang Phan, *Postdoctoral Researcher*
 **Website:** [http://qsphan.github.io/](http://qsphan.github.io/)
-Lorem ipsum dolor sit amet, te lorem timeam indoctum eum, ne has case dignissim cotidieque. Quis tantas aliquando pro ex. An feugiat minimum argumentum his, ea modus nonumes facilis eam. Eos impetus argumentum ne, ex modo accusam ponderum nam. Viris quidam invidunt ut per. rsight-aligned
+
+My research aims to analyse programs and provide a quantitative assessment of security. To this end, I use symbolic execution for program analysis, and model counting for quantification of information. 
 
 
 [corina]: ../img/people/corina.png 
