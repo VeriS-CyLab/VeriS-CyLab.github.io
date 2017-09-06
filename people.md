@@ -9,7 +9,8 @@ use-site-title: true
 
 ### ![corina] Corina Pasareanu, ACM Distinguished Scientist
 **Email:** [corina.pasareanu@sv.cmu.edu](mailto:corina.pasareanu@sv.cmu.edu)
-
+**Website:** [https://www.andrew.cmu.edu/user/kluckow](https://www.andrew.cmu.edu/user/kluckow)
+ 
 I am doing research in software engineering at NASA Ames, in the Robust Software Engineering group. I am employed by Carnegie Mellon University, where I am Associate Research Professor with CMU CyLab at the Silicon Valley campus. I also hold a courtesy appointment with the CMU ECE department.
 ---
 
