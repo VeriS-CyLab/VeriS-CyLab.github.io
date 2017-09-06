@@ -9,7 +9,6 @@ use-site-title: true
 
 ### ![corina] Corina Pasareanu, ACM Distinguished Scientist
 **Email:** [corina.pasareanu@sv.cmu.edu](mailto:corina.pasareanu@sv.cmu.edu)
-**Website:** [https://www.andrew.cmu.edu/user/kluckow](https://www.andrew.cmu.edu/user/kluckow)
 
 
 Lorem ipsum dolor sit amet, te lorem timeam indoctum eum, ne has case dignissim cotidieque. Quis tantas aliquando pro ex. An feugiat minimum argumentum his, ea modus nonumes facilis eam. Eos impetus argumentum ne, ex modo accusam ponderum nam. Viris quidam invidunt ut per. rsight-aligned
