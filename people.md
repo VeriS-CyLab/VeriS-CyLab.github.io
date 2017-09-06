@@ -9,6 +9,7 @@ use-site-title: true
 
 ### ![corina] Corina Pasareanu, ACM Distinguished Scientist
 
+
 I am doing research in software engineering at NASA Ames, in the Robust Software Engineering group. I am employed by Carnegie Mellon University, where I am Associate Research Professor with CMU CyLab at the Silicon Valley campus. I also hold a courtesy appointment with the CMU ECE department.
 ---
 
