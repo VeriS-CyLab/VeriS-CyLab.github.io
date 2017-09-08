@@ -7,15 +7,23 @@ use-site-title: true
 
 ---
 
-### ![corina] Corina Pasareanu, TITLE
+### ![corina] Corina Pasareanu, *ACM Distinguished Scientist*
+**Email:** [corina.pasareanu@sv.cmu.edu](mailto:corina.pasareanu@sv.cmu.edu)
 
-Lorem ipsum dolor sit amet, te lorem timeam indoctum eum, ne has case dignissim cotidieque. Quis tantas aliquando pro ex. An feugiat minimum argumentum his, ea modus nonumes facilis eam. Eos impetus argumentum ne, ex modo accusam ponderum nam. Viris quidam invidunt ut per. rsight-aligned
+
+
+
+I am doing research in software engineering at NASA Ames, in the Robust Software Engineering group. I am employed by Carnegie Mellon University, where I am Associate Research Professor with CMU CyLab at the Silicon Valley campus. I also hold a courtesy appointment with the CMU ECE department.
 
 ---
 
-### ![rody] Rody Kersten, TITLE
+### ![rody] Rody Kersten, *Postdoctoral Researcher*
+**Email:** [rody.kersten@sv.cmu.edu](mailto:rody.kersten@sv.cmu.edu)  
+**Website:** [https://www.andrew.cmu.edu/user/rkersten](https://www.andrew.cmu.edu/user/rkersten)
 
-Lorem ipsum dolor sit amet, te lorem timeam indoctum eum, ne has case dignissim cotidieque. Quis tantas aliquando pro ex. An feugiat minimum argumentum his, ea modus nonumes facilis eam. Eos impetus argumentum ne, ex modo accusam ponderum nam. Viris quidam invidunt ut per. rsight-aligned
+My research interest is software analysis in the broad sense: automated techniques to establish program properties such as functional correctness, safety, security and efficiency. In particular, I am interested in analysing consumption of resources such as time, memory and energy.
+
+Currently, I work on the [ISSTAC]({{ site.baseurl }}{% link projects.md %}) project, sponsored by the [DARPA STAC](http://www.darpa.mil/program/space-time-analysis-for-cybersecurity) program. Here, I apply resource analysis in the search for vulnerabilities to algorithmic complexity based attacks (Denial-of-Service). If a certain input causes a software system to consume an impractically large amount of resources, an adversary could use this input to deny service to benign users or otherwise disable the system. My research aims to identify such vulnerabilities in a semi-automated manner.
 
 ---
 
