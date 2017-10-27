@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 ## 2017
-1. Rody Kersten, Kasper Luckow, Corina Pasareanu. **POSTER: AFL-based Fuzzing with Kelinci**. In *2017 ACM Conference on Computer and Communications Security (CCS)*. \[[DOI](https://doi.org/10.1145/3133956.3138820)\]\[[BibTeX](ccs2017.bib)\]\[[PDF](ccs2017-kersten.pdf)\]\[[Poster](ccs2017-poster-small.pdf)\]
+1. Rody Kersten, Kasper Luckow, Corina Pasareanu. **POSTER: AFL-based Fuzzing with Kelinci**. In *2017 ACM Conference on Computer and Communications Security (CCS)*. \[[DOI](https://doi.org/10.1145/3133956.3138820)\]\[[BibTeX](ccs2017.bib)\]\[[PDF](ccs17-kersten.pdf)\]\[[Poster](ccs2017-poster-small.pdf)\]
 2. Quoc-Sang Phan, Lucas Bang, Corina Pasareanu, Pasquale Malacaria, Tevfik Bultan. **Synthesis of Adaptive Side-Channel Attacks**. In *30th IEEE Computer Security Foundations Symposium (CSF)*. \[[DOI](https://doi.org/)\]\[[BibTeX](csf17.bib)\]\[[PDF](csf17.pdf)\]
 3. Kasper Luckow, Rody Kersten, Corina Pasareanu. **Symbolic Complexity Analysis Using Context-Preserving Histories**. In *2017 IEEE International Conference on Software Testing, Verification and Validation (ICST)*. \[[DOI](https://doi.org/10.1109/ICST.2017.13)\]\[[BibTeX](icst2017.bib)\]\[[PDF](icst2017.pdf)\]
 4. Mateus Borges, Quoc-Sang Phan, Antonio Filieri and Corina Pasareanu. **Model-counting Approaches For Nonlinear Numerical Constraints**. In *9th NASA Formal Methods Symposium (NFM)*. \[[DOI](https://doi.org/10.1007/978-3-319-57288-8_9)\]\[[BibTeX](nfm17.bib)\]\[[PDF](nfm17.pdf)\]
